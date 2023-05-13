@@ -1,0 +1,25 @@
+<annotation>
+	<folder>my-project-name</folder>
+	<filename>ed6c35d516e6fee74774cfc437d755bf70493784.jpg</filename>
+	<path>/my-project-name/ed6c35d516e6fee74774cfc437d755bf70493784.jpg</path>
+	<source>
+		<database>Unspecified</database>
+	</source>
+	<size>
+		<width>1109</width>
+		<height>1479</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>Banner</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>434</xmin>
+			<ymin>382</ymin>
+			<xmax>754</xmax>
+			<ymax>1252</ymax>
+		</bndbox>
+	</object>
+</annotation>
