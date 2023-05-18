@@ -1,0 +1,16 @@
+artifact_uri: file:///C:/Users/Admin/DataSci/mlruns/852459127231429861/aeaef9d0e7974f3dbf9650ce3e6b48bd/artifacts
+deleted_time: 1684341153437
+end_time: 1684340877759
+entry_point_name: ''
+experiment_id: '852459127231429861'
+lifecycle_stage: deleted
+run_id: aeaef9d0e7974f3dbf9650ce3e6b48bd
+run_name: delicate-grouse-838
+run_uuid: aeaef9d0e7974f3dbf9650ce3e6b48bd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1684340871131
+status: 3
+tags: []
+user_id: Admin

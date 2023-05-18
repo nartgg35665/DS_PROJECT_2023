@@ -1,0 +1,16 @@
+artifact_uri: file:///C:/Users/Admin/DataSci/mlruns/852459127231429861/7c13899871e14758ad7a11a5fab10811/artifacts
+deleted_time: 1684341153434
+end_time: 1684341042497
+entry_point_name: ''
+experiment_id: '852459127231429861'
+lifecycle_stage: deleted
+run_id: 7c13899871e14758ad7a11a5fab10811
+run_name: zealous-calf-799
+run_uuid: 7c13899871e14758ad7a11a5fab10811
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1684341036336
+status: 4
+tags: []
+user_id: Admin

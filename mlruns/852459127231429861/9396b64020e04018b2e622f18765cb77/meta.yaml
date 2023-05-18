@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Admin/DataSci/mlruns/852459127231429861/9396b64020e04018b2e622f18765cb77/artifacts
+end_time: 1684342763377
+entry_point_name: ''
+experiment_id: '852459127231429861'
+lifecycle_stage: active
+run_id: 9396b64020e04018b2e622f18765cb77
+run_name: banner_detection_faster_rcnn_2
+run_uuid: 9396b64020e04018b2e622f18765cb77
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1684342757656
+status: 3
+tags: []
+user_id: Admin

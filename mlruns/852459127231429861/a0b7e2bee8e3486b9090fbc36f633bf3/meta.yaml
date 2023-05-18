@@ -1,0 +1,16 @@
+artifact_uri: file:///C:/Users/Admin/DataSci/mlruns/852459127231429861/a0b7e2bee8e3486b9090fbc36f633bf3/artifacts
+deleted_time: 1684341153446
+end_time: 1684338795900
+entry_point_name: ''
+experiment_id: '852459127231429861'
+lifecycle_stage: deleted
+run_id: a0b7e2bee8e3486b9090fbc36f633bf3
+run_name: gregarious-fox-376
+run_uuid: a0b7e2bee8e3486b9090fbc36f633bf3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1684338795836
+status: 4
+tags: []
+user_id: Admin

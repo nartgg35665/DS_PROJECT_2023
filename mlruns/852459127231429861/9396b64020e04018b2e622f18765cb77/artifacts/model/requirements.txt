@@ -1,0 +1,11 @@
+mlflow==2.3
+cffi==1.15.1
+cloudpickle==2.0.0
+defusedxml==0.7.1
+dill==0.3.4
+numpy==1.21.5
+pathlib==1.0.1
+requests==2.28.1
+torch==2.0.1
+torchvision==0.15.2
+tqdm==4.64.1

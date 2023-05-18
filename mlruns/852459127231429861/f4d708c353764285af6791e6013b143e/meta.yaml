@@ -1,0 +1,16 @@
+artifact_uri: file:///C:/Users/Admin/DataSci/mlruns/852459127231429861/f4d708c353764285af6791e6013b143e/artifacts
+deleted_time: 1684341153439
+end_time: 1684340462187
+entry_point_name: ''
+experiment_id: '852459127231429861'
+lifecycle_stage: deleted
+run_id: f4d708c353764285af6791e6013b143e
+run_name: capable-ox-54
+run_uuid: f4d708c353764285af6791e6013b143e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1684340452599
+status: 3
+tags: []
+user_id: Admin
